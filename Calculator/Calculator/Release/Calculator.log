@@ -1,0 +1,15 @@
+﻿  LTexture.cpp
+LTexture.cpp(63): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+LTexture.cpp(63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+LTexture.cpp(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+LTexture.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+main.cpp(55): warning C4129: '.': unrecognized character escape sequence
+main.cpp(402): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(413): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(436): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(463): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 846 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Calculator.vcxproj -> D:\All Projects\C++\SDL2\Calculator\Calculator\Release\Calculator.exe

@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\all projects\c++\sdl2\calculator\calculator\calculator\main.cpp(55): warning C4129: '.': unrecognized character escape sequence
+d:\all projects\c++\sdl2\calculator\calculator\calculator\main.cpp(402): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\all projects\c++\sdl2\calculator\calculator\calculator\main.cpp(413): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\all projects\c++\sdl2\calculator\calculator\calculator\main.cpp(436): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\all projects\c++\sdl2\calculator\calculator\calculator\main.cpp(463): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LTexture.cpp
+d:\all projects\c++\sdl2\calculator\calculator\calculator\ltexture.cpp(63): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+d:\all projects\c++\sdl2\calculator\calculator\calculator\ltexture.cpp(63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\all projects\c++\sdl2\calculator\calculator\calculator\ltexture.cpp(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\all projects\c++\sdl2\calculator\calculator\calculator\ltexture.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Calculator.vcxproj -> D:\All Projects\C++\SDL2\Calculator\Calculator\Debug\Calculator.exe
+  Calculator.vcxproj -> D:\All Projects\C++\SDL2\Calculator\Calculator\Debug\Calculator.pdb (Partial PDB)
